@@ -1,6 +1,9 @@
 DataFest Repository
 ===========
 
+Nick's addition
+----------
+Go to the 2020 page and then versioning control or whatever it's called. That has a good intro to github/gitkraken.
 
 DataFest
 ----------
